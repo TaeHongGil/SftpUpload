@@ -13,7 +13,7 @@ sftpPath=
 #server config파일 없으면 생성
 # if [ ! -e ~/.ssh/config ]; then
 #     echo "
-# Host Take5
+# Host
 #     HostName 
 #     User 
 #     IdentityFile ~/.ssh/$keyFileName
