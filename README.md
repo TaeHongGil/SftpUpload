@@ -4,7 +4,7 @@
 
 기존폴더는 ~/desktop/resource_backup/ 폴더에 fordername_날짜 형태로 백업
 
-##사용법(MAC)
+## 사용법(MAC)
 
 ~/desktop/resource/ 폴더안에 올리고자하는 리소스 폴더를 이동
 
