@@ -14,8 +14,8 @@ sftpPath=
 # if [ ! -e ~/.ssh/config ]; then
 #     echo "
 # Host Take5
-#     HostName take5-dev.doubleugames.com
-#     User ec2-user
+#     HostName 
+#     User 
 #     IdentityFile ~/.ssh/$keyFileName
 #         " > ~/.ssh/config
 # fi
