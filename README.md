@@ -9,12 +9,15 @@
 실행
 
 폴더 선택
+
 ![image](https://user-images.githubusercontent.com/66548142/129344543-cf7dc0da-69f1-4a17-989e-f5d497be4f39.png)
 
 version 선택
+
 ![image](https://user-images.githubusercontent.com/66548142/129344614-9771f9dc-b2b6-4c7a-8004-da04693fe3d6.png)
 
 폴더와 version 확인
 
 완료창
+
 ![image](https://user-images.githubusercontent.com/66548142/129344693-c5914b9e-74a6-4f01-9bf1-b0ba63459bd1.png)
