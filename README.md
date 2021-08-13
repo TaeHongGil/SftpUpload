@@ -15,6 +15,7 @@ error log는 resource_backup/errLog.txt에 저장
 
 **터미널에서 ftp 첫 1회 접속 권장**
 
+sftp ec2-user@take5-dev.doubleugames.com
 
 ## 사용법(MAC)
 
