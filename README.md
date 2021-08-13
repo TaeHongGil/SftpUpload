@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/66548142/129344543-cf7dc0da-69f1-4a17-989e-f5d497be4f39.png)
 
 version 선택
-![image](https://user-images.githubusercontent.com/66548142/129344614-9771f9dc-b2b6-4c7a-8004-da04693fe3d6.png
+![image](https://user-images.githubusercontent.com/66548142/129344614-9771f9dc-b2b6-4c7a-8004-da04693fe3d6.png)
 
 폴더와 version 확인
 
