@@ -8,9 +8,12 @@
 
 error log는 resource_backup/errLog.txt에 저장
 
-<span style="color:red">첫 실행시 시간이 조금 걸릴 수 있음.</span>
 
-<span style="color:red">터미널에서 sftp 첫 1회 접속 권장</span>
+## 주의사항
+
+**첫 실행시 시간이 조금 걸릴 수 있음*
+
+**터미널에서 sftp 첫 1회 접속 권장**
 
 
 ## 사용법(MAC)
