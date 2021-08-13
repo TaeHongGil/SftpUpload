@@ -5,6 +5,7 @@
 기존폴더는 ~/desktop/resource_backup/ 폴더에 fordername_날짜 형태로 백업
 
 마지막 실행 정보는 resource_backup/lastInfo.txt에 저장
+
 error log는 resource_backup/errLog.txt에 저장
 
 ## 사용법(MAC)
