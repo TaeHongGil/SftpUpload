@@ -6,8 +6,15 @@
 
 ## 사용법(MAC)
 
-~/desktop/resource/ 폴더안에 올리고자하는 리소스 폴더를 이동
+실행
 
-스크립트를 열어 변수를 수정
+폴더 선택
+![image](https://user-images.githubusercontent.com/66548142/129344543-cf7dc0da-69f1-4a17-989e-f5d497be4f39.png)
 
-터미널을 열어 스크립트를 실행 (bash ResourceUpload.sh)
+version 선택
+![image](https://user-images.githubusercontent.com/66548142/129344614-9771f9dc-b2b6-4c7a-8004-da04693fe3d6.png
+
+폴더와 version 확인
+
+완료창
+![image](https://user-images.githubusercontent.com/66548142/129344693-c5914b9e-74a6-4f01-9bf1-b0ba63459bd1.png)
